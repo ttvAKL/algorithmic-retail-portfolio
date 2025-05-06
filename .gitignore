@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Data
+*.parquet
+*.png
+*.csv
+
+# Virtual environment
+research_env/
